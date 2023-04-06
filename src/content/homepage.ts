@@ -7,7 +7,7 @@ export const homepage = [
   {
     title: "Discussions",
     content: "We will have a lot of lovely chats.",
-    icon: "ph:code-bold",
+    icon: "arcticons:tiny-planet-fx-pro",
   },
   {
     title: "Tutorials",
