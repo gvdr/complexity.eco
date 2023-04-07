@@ -1,17 +1,17 @@
 export const homepage = [
   {
-    title: "Talks",
-    content: "Nice friends will tell us all about complexity.",
+    title: "Keynote speakers",
+    content: "Francis Banville (Université de Montréal), Rogini Runghen (Northeastern University), Tanya Strydom (Université de Montréal), Giulio Dalla Riva (University of Canterbury)",
     icon: "charm:rocket",
   },
   {
-    title: "Discussions",
-    content: "We will have a lot of lovely chats.",
-    icon: "arcticons:tiny-planet-fx-pro",
+    title: "Participate",
+    content: "Present your ideas and questions in a lightening talk. Take part to the panels. Collaborate in our workshop.",
+    icon: "mdi:account-multiple-plus",
   },
   {
-    title: "Tutorials",
-    content: "We may even learn something together.",
+    title: "Workshop",
+    content: "Our goal is to plant some seeds for further discoveries. Working together, we will start to design a common research project.",
     icon: "charm:plant-pot",
   },
 ];

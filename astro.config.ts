@@ -9,7 +9,7 @@ import codeTitle from "remark-code-title";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://nofuss.pages.dev",
+  site: "https://www.complexity.eco",
   base: "/",
   markdown: {
     shikiConfig: {
@@ -20,7 +20,7 @@ export default defineConfig({
         astroLayouts,
         {
           default: "@layouts/Layout.astro",
-          "pages/blog/**/*.mdx": "@layouts/BlogLayout.astro",
+          "pages/*.mdx": "@layouts/BlogLayout.astro",
         },
       ],
       codeTitle,
