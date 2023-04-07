@@ -1,5 +1,5 @@
 [
-  { "number": 4, "label": "Keynote Speakers" },
+  { "number": "4", "label": "Keynote Speakers" },
   { "number": "5+", "label": "Lightning talks" },
-  { "number": 2, "label": "Workshops" }
+  { "number": "2", "label": "Workshops" }
 ]
